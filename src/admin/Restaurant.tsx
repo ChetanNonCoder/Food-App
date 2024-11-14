@@ -7,7 +7,7 @@ import { useState } from "react";
 const Restaurant = () => {
   const loading = false;
   const restaurantHai = false;
-  const [input, setInput] = useState({
+  const [setInput] = useState({
     restaurant: "",
     city: "",
     deliveryTime: 0,

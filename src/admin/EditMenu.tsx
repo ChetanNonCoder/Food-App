@@ -7,7 +7,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import HeroImage from "../assets/vegetable-cutlets-vegetarian-cutlets_75924-18446.avif";
+// import HeroImage from "../assets/vegetable-cutlets-vegetarian-cutlets_75924-18446.avif";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 // import { MenuFormSchema, menuSchema } from "@/schema/menuSchema";
