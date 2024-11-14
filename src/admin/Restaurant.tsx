@@ -2,18 +2,18 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Loader2 } from "lucide-react";
-import { useState } from "react";
+// import { useState } from "react";
 
 const Restaurant = () => {
   const loading = false;
   const restaurantHai = false;
-  const [setInput] = useState({
-    restaurant: "",
-    city: "",
-    deliveryTime: 0,
-    cuisines: [],
-    imageFile: undefined,
-  });
+  // const [setInput] = useState({
+  //   restaurant: "",
+  //   city: "",
+  //   deliveryTime: 0,
+  //   cuisines: [],
+  //   imageFile: undefined,
+  // });
   return (
     <div className="max-w-6xl mx-auto my-10">
       <div>

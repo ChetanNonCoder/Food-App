@@ -7,7 +7,7 @@ import { Badge } from "./ui/badge";
 import { Globe, MapPin, X } from "lucide-react";
 import { Card, CardContent, CardFooter } from "./ui/card";
 import { AspectRatio } from "./ui/aspect-ratio";
-import { Skeleton } from "./ui/skeleton";
+// import { Skeleton } from "./ui/skeleton";
 import HeroImage from "../assets/hero_pizza.png";
 
 const SearchPage = () => {

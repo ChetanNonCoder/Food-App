@@ -11,7 +11,7 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Loader2, Plus } from "lucide-react";
-import React, { FormEvent, useState } from "react";
+import React, { useState } from "react";
 import EditMenu from "./EditMenu";
 import HeroImage from "../assets/vegetable-cutlets-vegetarian-cutlets_75924-18446.avif";
 // import { log } from "console";
